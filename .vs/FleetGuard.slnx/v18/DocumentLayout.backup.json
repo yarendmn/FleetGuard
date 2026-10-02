@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\models\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:models\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\interfaces\\ireportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:interfaces\\ireportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\interfaces\\imaintainable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:interfaces\\imaintainable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\interfaces\\iinspectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:interfaces\\iinspectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|c:\\users\\fmmer\\source\\repos\\fleetguard\\fleetguard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F51903C2-577C-BD3D-1526-BF02780625CC}|FleetGuard.csproj|solutionrelative:fleetguard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:03:01.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Truck.cs",
+              "RelativeToolTip": "Models\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:07:49.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Drone.cs",
+              "RelativeDocumentMoniker": "Models\\Drone.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Drone.cs",
+              "RelativeToolTip": "Models\\Drone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:18:14.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:09:30.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:04:43.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReportable.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Interfaces\\IReportable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReportable.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Interfaces\\IReportable.cs",
+              "RelativeToolTip": "Interfaces\\IReportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:48:16.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMaintainable.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Interfaces\\IMaintainable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMaintainable.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Interfaces\\IMaintainable.cs",
+              "RelativeToolTip": "Interfaces\\IMaintainable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:46:23.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInspectable.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Interfaces\\IInspectable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IInspectable.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\Interfaces\\IInspectable.cs",
+              "RelativeToolTip": "Interfaces\\IInspectable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:47:26.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FleetGuard.csproj",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\FleetGuard.csproj",
+              "RelativeDocumentMoniker": "FleetGuard.csproj",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\FleetGuard\\FleetGuard.csproj",
+              "RelativeToolTip": "FleetGuard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T14:45:34.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
